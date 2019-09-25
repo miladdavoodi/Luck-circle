@@ -1,6 +1,8 @@
-# warin
+# Luck-circle
 
 > My brilliant Nuxt.js project
+
+![](screenshot.jpg)
 
 ## Build Setup
 
